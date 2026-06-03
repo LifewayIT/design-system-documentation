@@ -1,0 +1,3 @@
+- The Scroller **provides a visible affordance for scrollable content** — it communicates to users that additional content exists beyond the visible viewport and allows them to navigate it directly.
+- The Scroller **replaces the native browser scrollbar** with a system-consistent visual treatment — ensuring the scrollbar appearance aligns with the Cornerstone design language across platforms and browsers.
+- The Scroller **scales across four sizes** to match the density and context of its containing surface — from a minimal 2px thumb for compact UI regions to a 12px thumb for large or touch-friendly surfaces.
