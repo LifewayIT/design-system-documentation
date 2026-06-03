@@ -1,0 +1,3 @@
+- **Progress Bar** — Communicates task or load progress; not a scroll position indicator
+- **Pagination** — Use when content is paginated rather than continuously scrolled
+- **Slider** — A control for selecting a value along a range; shares similar visual language but serves a distinct interactive purpose
